@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31531
     wikipedia: http://en.wikipedia.org/wiki/Amalie_Winter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25722#Leben-und-Schicksale-des-Katers-Rosaurusoder-die-kleine-Prinzessin-und-ihre-Katze
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2008-06-07'
 gutenberg_type: Text
