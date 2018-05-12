@@ -1,0 +1,30 @@
+_repo: Leben-und-Schicksale-des-Katers-Rosaurusoder-die-kleine-Prinzessin-und-ihre-Katze_25722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winter, Amalie
+    birthdate: 1803
+    gutenberg_agent_id: '31531'
+    url: http://www.gutenberg.org/2009/agents/31531
+    wikipedia: http://en.wikipedia.org/wiki/Amalie_Winter
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2008-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25722'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Leben und Schicksale des Katers Rosaurus
+
+  oder die kleine Prinzessin und ihre Katze'
+url: http://www.gutenberg.org/ebooks/25722
